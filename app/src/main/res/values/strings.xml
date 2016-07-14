@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapAddressDemo</string>
+    <string name="google_maps_key">AIzaSyBnFUkCOeNYzBDiEvyCtqy6jwXul7Q-B64</string>
+    <string name="tap_instructions">Tap on the map</string>
+</resources>
